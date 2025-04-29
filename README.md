@@ -34,7 +34,7 @@
 ---
 
 ## 📡 Contact & Social  
-[![Instagram](https://img.shields.io/badge/@exclusivora__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/exclusivora_)  
+[![Instagram](https://img.shields.io/badge/@exclusivora__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/airboy.fax)  
 [![YouTube](https://img.shields.io/badge/Airfax-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@airfax8)
 
 </div>
