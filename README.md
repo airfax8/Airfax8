@@ -32,9 +32,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=airfax8&theme=onedark&no-frame=true&column=4" />  
 <br>
 
-<img src="https://img.shields.io/badge/Location-Turkey-red?style=flat&logo=googlemaps" />
-<img src="https://img.shields.io/badge/OS-Linux-black?style=flat&logo=linux" />
-<img src="https://img.shields.io/badge/Browser-Firefox-orange?style=flat&logo=firefox-browser" />
 
 ---
 
