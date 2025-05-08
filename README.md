@@ -61,6 +61,6 @@
 
 ## 📡 Contact & Social  
 [![Instagram](https://img.shields.io/badge/@airboy.fax-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/airboy.fax)  
-[![YouTube](https://img.shields.io/badge/Airfax-FF0000?style=flat&logo=youtube&logoColor=white)]([https://youtube.com/@airfax8](https://www.youtube.com/@Airfax-Development))
+[![YouTube](https://img.shields.io/badge/Airfax-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Airfax-Development)
 
 </div>
